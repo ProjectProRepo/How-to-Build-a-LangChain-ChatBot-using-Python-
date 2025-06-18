@@ -2,9 +2,10 @@
 
 This project is a retrieval-augmented chatbot built using LangChain, Gradio, and Mistral 7B. It supports conversational memory and runs efficiently on Google Colab. If you want to learn the nuts and bolts of the code in this repository, read the article [How to Build LangChain CHatBot with Memory in Python by ProjectPro](https://www.projectpro.io/article/langchain-chatbot/1106).
 
-<div align="center">
-![image](https://github.com/user-attachments/assets/7990e125-a901-4508-be8c-3bbc497054a0)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7990e125-a901-4508-be8c-3bbc497054a0" alt="Banner Image">
+</p>
+
 ## Features
 
 - Uses Mistral 7B, an open-source LLM from Hugging Face  
